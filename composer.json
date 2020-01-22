@@ -1,5 +1,5 @@
 {
-    "name": "laravel/laravel",
+    "name": "zorca/laravel-buefy-starter",
     "type": "project",
     "description": "The Laravel Framework.",
     "keywords": [
